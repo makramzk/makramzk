@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi dear 👋
 
 - 🔭 I’m currently working on Travel tide DAtaset to analyze user behavior.
 - 🌱 I’m currently learning Data Analytics at Masterschool.
